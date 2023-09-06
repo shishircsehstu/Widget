@@ -1,5 +1,7 @@
 # Widget
 
+Widget maker allows you to create custom photo widgets, date widgets, weather data, calender, custom text art widgets, countdown widgets - and so much more with the new iOS 14 widget experience. 
+
 ![ezgif com-resize (3)](https://github.com/shishircsehstu/Widget/assets/29371886/983326d8-d358-422c-b713-671adb665143)
 
 WIDGETS
