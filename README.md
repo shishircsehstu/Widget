@@ -26,5 +26,7 @@ Along with many more widgets to discover.
 ![IMG_0728PNG](https://github.com/shishircsehstu/Widget/assets/29371886/67803437-aae6-4072-afab-b3e574048361)
 ![IMG_0729PNG](https://github.com/shishircsehstu/Widget/assets/29371886/5679c728-e1b7-4675-a101-e108eccdfcf4)
 ![IMG_0730PNG](https://github.com/shishircsehstu/Widget/assets/29371886/ab7416e4-acf9-4078-bd62-f06274fc11f9)
+![IMG_CCA7880A8DA9-1 (2)](https://github.com/shishircsehstu/Widget/assets/29371886/8e38afb2-9b59-4779-8f14-a469cc14ea55)
+
 
 
